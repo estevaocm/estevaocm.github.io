@@ -6,14 +6,14 @@ M.Sc. in Computer Science at Universidade Federal de Pernambuco, March 2016.
 
 B.Sc. in Computer Science at Universidade Salvador - Unifacs, December 2004.
 
-https://estevao.altervista.org
+[Personal Web page](https://estevao.altervista.org)
 
-https://github.com/estevaocm/
+[Github](https://github.com/estevaocm)
 
-https://sourceforge.net/u/estevaocm/profile/
+[SourceForge](https://sourceforge.net/u/estevaocm)
 
-https://www.linkedin.com/in/estevaocm
+[LinkedIn](https://www.linkedin.com/in/estevaocm)
 
-https://lattes.cnpq.br/2425079892443898
+[Lattes CV](https://lattes.cnpq.br/2425079892443898)
 
-https://www.facebook.com/estevao.c.monteiro
+[Facebook](https://www.facebook.com/estevao.c.monteiro)
